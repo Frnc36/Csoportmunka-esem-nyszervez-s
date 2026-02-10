@@ -6,11 +6,11 @@
 
 ## Elkészítendő fájlok: 
 
-1. index.html
-2. esetleg esemeny.html 3 fő esetén
-3. urlap.html
-4. formazasok.css (minden oldal színei, betűtípusok)
-5. elrendezes.css (oldalszerkezet készítése minden oldalhoz)
-6. navigacio.css (menü kialakítása minden oldalhoz)
-7. urlap.css (űrlap formázásai - csak az űrlaphoz)
-8. esemenyek.css (események elrendezése csak az index.html-hez) 
+1. index.html - Ferenc
+2. esetleg esemeny.html 3 fő esetén - Ádám (esemeny.css)
+3. urlap.html - Bea
+4. formazasok.css (minden oldal színei, betűtípusok) - Ádám
+5. elrendezes.css (oldalszerkezet készítése minden oldalhoz) - Bea
+6. navigacio.css (menü kialakítása minden oldalhoz) - Ferenc
+7. urlap.css (űrlap formázásai - csak az űrlaphoz) - Bea
+8. esemenyek.css (események elrendezése csak az index.html-hez) - Ferenc
