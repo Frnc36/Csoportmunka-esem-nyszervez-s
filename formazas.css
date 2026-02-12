@@ -1,5 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+header, nav, section{
+    margin-bottom: 10px;
+} 
+
 body{
-    background-color: #0C1766;
+    background-color: #387894;
 
 }
 
@@ -7,12 +15,27 @@ main{
     width: 80%;
     margin: auto auto;
     background-color: white;
+    border-radius: 10px;
 }
 
 header{
-    border: 5px solid #B70B18;
-    height: 150px;
-    /* background-image: url(kepek/olimpia_logo.png); */  
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-color: #84BAD1;
+    border: 5px solid #5896B1;
+    border-radius: 10px;
+}
+
+header h1, header h2{
+    text-align: center;
+}
+
+article{
+    background-color: white;
+}
+
+footer{
+    background-color: #84BAD1;
+    border: 5px solid #5896B1;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
 }
