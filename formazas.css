@@ -1,0 +1,12 @@
+body{
+    background-color: #0C1766;
+
+}
+
+header{
+    border: 5px solid #B70B18;
+    height: 150px;
+    /* background-image: url(kepek/olimpia_logo.png); */  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
