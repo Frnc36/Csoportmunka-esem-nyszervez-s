@@ -3,6 +3,12 @@ body{
 
 }
 
+main{
+    width: 80%;
+    margin: auto auto;
+    background-color: white;
+}
+
 header{
     border: 5px solid #B70B18;
     height: 150px;

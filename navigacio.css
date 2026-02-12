@@ -29,6 +29,7 @@ li a{
 
 a:hover:not(.active) {
     color: black;
+    border-radius: 5px;
 }
     
 .active {
@@ -41,9 +42,4 @@ nav a:hover{
     background-color: white;
     color: black;
     padding: 5px;
-}
-
-nav li:hover{
-    
-    cursor: pointer;
 }
