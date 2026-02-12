@@ -22,55 +22,7 @@ main{
     background-color: white;
 }
 
-nav{
-    background-color: black;
-    border-radius: 10px;
-    margin: auto auto;
-    width: fit-content;
-}
 
-nav ul{
-    display: flex;
-    gap: 5px;
-    justify-content: center;
-    list-style-type: none;
-    flex-wrap: wrap;
-    padding-inline-start: 0;
-    margin: 5px;
-    padding: 5px;
-}
-
-li{
-    padding: 10px;
-    transition: background-color 0.2s ease;
-    border-radius: 10px;
-}
-
-li a{
-    color: white;
-    text-decoration: none;
-}
-
-a:hover:not(.active) {
-    color: black;
-}
-    
-.active {
-    color: white;
-    border-radius: 5px;
-    text-decoration: underline white;
-} 
-
-nav a:hover{
-    background-color: white;
-    color: black;
-    padding: 5px;
-}
-
-nav li:hover{
-    
-    cursor: pointer;
-}
 
 article{
     display: flex;
