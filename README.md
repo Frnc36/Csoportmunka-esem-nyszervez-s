@@ -15,6 +15,7 @@
 7. urlap.css (űrlap formázásai - csak az űrlaphoz) - Bea
 8. esemenyek.css (események elrendezése csak az index.html-hez) - Ferenc
 
-#### betűszín, body: sötét kék
-#### header, footer: piros
+#### main szine: #84BAD1
+#### body szine: #387894
+#### border szine: #5896B1
 
