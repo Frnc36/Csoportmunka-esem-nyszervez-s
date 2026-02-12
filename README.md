@@ -1,4 +1,4 @@
-# Csoportmunka-esem-nyszervez-s
+# Csoportmunka eseményszervezés
 
 ![index oldal](/kepek/index.png)
 ![esemeny oldal](/kepek/esemeny.png)
@@ -14,3 +14,7 @@
 6. navigacio.css (menü kialakítása minden oldalhoz) - Ferenc
 7. urlap.css (űrlap formázásai - csak az űrlaphoz) - Bea
 8. esemenyek.css (események elrendezése csak az index.html-hez) - Ferenc
+
+#### betűszín, body: sötét kék
+#### header, footer: piros
+
