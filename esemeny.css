@@ -1,0 +1,27 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+
+article{
+    width: 70%;
+    margin: 10px;
+}
+aside{
+    order: -1;
+    align-self: center;
+
+}
+
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+
