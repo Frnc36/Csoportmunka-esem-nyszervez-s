@@ -1,8 +1,8 @@
 # Csoportmunka eseményszervezés
 
-![index oldal](/kepek/index.png)
-![esemeny oldal](/kepek/esemeny.png)
-![urlap oldal](/kepek/urlap.png)
+![index oldal](/minta/index.png)
+![esemeny oldal](/minta/esemeny.png)
+![urlap oldal](/minta/urlap.png)
 
 ## Elkészítendő fájlok: 
 
@@ -19,3 +19,4 @@
 #### body szine: #387894
 #### border szine: #5896B1
 
+#### https://paletton.com/#uid=13r190kcpLj30Zm7ITIgNAukQtr
