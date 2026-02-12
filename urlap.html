@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="urlap_style.css">
+    <title>Űrlap</title>
+</head>
+<body>
+    <main>
+        <header></header>
+        <nav></nav>
+        <article>
+            <form action="esemeny.php">
+                <div id="tartalom">
+                    <div>
+                        <label for="nev">Teljes név: <span>*</span></label>
+                        <input type="text" name="nev" id="nev" required>
+                    </div>
+                    <div>
+                        <label for="email">E-mail cím: <span>*</span></label>
+                        <input type="email" name="email" id="email" required>
+                    </div>
+                    <div>
+                        <label for="resztvevo">Résztvevők száma: </label>
+                        <input type="number" name="resztvevo" id="resztvevo" value="1" min="1" max="30">
+                    </div>
+                    <div>
+                        <label for="reszvetel">Részvétel tipusa: </label>
+                        <br>
+
+                        <label for="resz1">Edző</label>
+                        <input type="radio" id="resz1" name="reszvetel" checked>
+
+                        <label for="resz2">Versenyző</label>
+                        <input type="radio" id="resz2" name="reszvetel" >
+
+                        <label for="resz2">Szurkoló</label>
+                        <input type="radio" id="resz3" name="reszvetel" >
+                    </div>
+                    <div>
+                        <label for="megjegyzes">Egyéb megjegyzés: </label>
+                        <br>
+                        <textarea name="megjegyzes" id="megjegyzes" rows="5"></textarea>
+                    </div>
+                    <input type="submit" value="Küldés">
+                </div>
+            </form>
+        </article>
+        <footer></footer>
+    </main>
+    
+</body>
+</html>
