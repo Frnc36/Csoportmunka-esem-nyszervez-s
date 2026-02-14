@@ -1,7 +1,17 @@
 # Csoportmunka eseményszervezés
 
+__Pages Link:__ https://frnc36.github.io/Csoportmunka_esemenyszervezes/
+
+Ez a projekt egy csoportos weboldal, amelynek teljes elrendezése CSS **Flexbox** használatával készült.
+
+## index.html - oldal
+
 ![index oldal](/minta/index.png)
+
+## esemeny.html - oldal
 ![esemeny oldal](/minta/esemeny.png)
+
+## urlap.html - oldal
 ![urlap oldal](/minta/urlap.png)
 
 ## Elkészítendő fájlok: 
